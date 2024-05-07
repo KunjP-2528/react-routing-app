@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+
+.conrainer{
+    width: 80%;
+    margin: 0 auto;
+    color: white;
+    height: 100vh;
+
+}
+.section>img{
+width: 1215px;
+height: 500px;
+padding: 5px;
+}   
+.section>h1{
+    text-align: center;
+    padding: 5px 10px 10px 10px ;
+}
+.section>p{
+    text-align: center;
+    padding: 20px 60px;
+}
+.section2{
+    background-image: url(./sebastian-unrau-sp-p7uuT0tw-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.data>button{
+    width: 500px;
+    height: 60px;
+    font-size: 40px;
+    background-color: rgba(0, 0, 0, 0.3);
+    border: none;
+    color: white;
+}
+.section3{
+    height: 250px;
+    background-color: rgb(30, 29, 29);
+    color: white;
+    text-align: center;
+}
+.section3>h1{
+    padding: 30px;
+    font-weight: 200;
+}
+.section3>p{
+    padding: 20px 60px;
+}
+.data1>button{
+    width: 600px;
+    height: 60px;
+    font-size: 40px;
+    background-color: rgba(0, 0, 0, 0.3);
+    border: none;
+    color: white;
+}
+.section4{
+    background-image: url(./lightscape-LtnPejWDSAY-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
